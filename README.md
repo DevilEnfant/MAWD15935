@@ -1,6 +1,6 @@
 # MAWD15935:<br>A Large-Scale Manchu Archives Word Dataset
 
-> Temporary project page for **MAWD15935**.  
+> Project page for **MAWD15935**.  
 > More documentation and supplementary materials will be added progressively before **2026-04-08**.
 
 ---
@@ -24,8 +24,6 @@ More materials will be completed and released step by step before **2026-04-08**
 ---
 
 ## Status
-
-This page is currently a **temporary version**.
 
 The following materials are under preparation and will be completed progressively before **2026-04-08**.
 
