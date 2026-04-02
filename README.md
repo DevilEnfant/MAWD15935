@@ -21,8 +21,6 @@ More materials will be completed and released step by step before **2026-04-08**
 |---|---|---|
 | BaiduNetDisk | [BaiduNetDisk](https://pan.baidu.com/s/1HYC6KksEineLi56Jh4t3rQ) | `MAWD` |
 
-> Please replace `PASTE_BAIDUNETDISK_URL_HERE` with your actual Baidu Netdisk URL.
-
 ---
 
 ## Status
