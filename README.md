@@ -10,7 +10,7 @@
 **MAWD15935** is a large-scale Manchu archives word dataset.
 
 This repository is currently a **public entry page** for the dataset.  
-At this stage, we only provide the dataset download information.  
+At present, we provide the dataset download link and supplementary materials.
 More materials will be completed and released step by step before **2026-04-08**.
 
 ---
