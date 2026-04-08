@@ -4,7 +4,11 @@
 
 # A Large-Scale Manchu Archives Word Dataset
 
-[`中文`](./docs/README-CN.md)｜ [`ENG`](./README.md)
+> ● This repository serves as the public project page for MAWD15935. \
+> ● The supplementary material is available through this website. \
+> ● The full dataset has been uploaded and will be made available to ACM MM 2026 Dataset Track chairs and reviewers through anonymous review access upon request via the official communication channel.
+
+[`中文`](./docs/README-CN.md) ｜ [`ENG`](./README.md)
 
 ## 🔍 Introduction
 
@@ -163,12 +167,15 @@ Overall, MAWD15935 combines broad lexical coverage, rich font variation, and aut
 
 ## ⏬ Download
 
+To preserve the review workflow, the direct download links are not publicly listed during the review period.  
+Review-only access information will be provided **upon request from the Dataset Track Chairs via the official communication channel**.
+
 | Resource | Link | Password |
 |---|---|---|
-| Baidu NetDisk | [Baidu NetDisk](https://pan.baidu.com/s/1qy7MD1Hu0fVY_6vYbGN6sg) | `MAWD` |
-| Google Drive | [Google Drive]() | none |
+| BaiduNetDisk | [BaiduNetDisk](https://pan.baidu.com/s/1qy7MD1Hu0fVY_6vYbGN6sg) | Available through the official review channel |
+| Google Drive | Available through the official review channel | None |
 
-## 🔗 Citation
+## 🔗 Citation1
 
 If you use **MAWD15935** in your research, please cite the following temporary reference:
 
