@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="figure/logo.png" alt="MAWD15935 Logo" width="100%">
+</p>
+
 # MAWD15935:<br>A Large-Scale Manchu Archives Word Dataset
 
 > Project page for **MAWD15935**.  
