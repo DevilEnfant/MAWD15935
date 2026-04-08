@@ -175,7 +175,7 @@ Review-only access information will be provided **upon request from the Dataset 
 | BaiduNetDisk | [BaiduNetDisk](https://pan.baidu.com/s/1qy7MD1Hu0fVY_6vYbGN6sg) | Available through the official review channel |
 | Google Drive | Available through the official review channel | None |
 
-## 🔗 Citation1
+## 🔗 Citation
 
 If you use **MAWD15935** in your research, please cite the following temporary reference:
 
