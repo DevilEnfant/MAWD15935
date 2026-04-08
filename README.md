@@ -165,7 +165,7 @@ Overall, MAWD15935 combines broad lexical coverage, rich font variation, and aut
 
 | Resource | Link | Password |
 |---|---|---|
-| Baidu NetDisk | [Baidu NetDisk](https://pan.baidu.com/s/1HYC6KksEineLi56Jh4t3rQ) | `MAWD` |
+| Baidu NetDisk | [Baidu NetDisk]() | `MAWD` |
 | Google Drive | [Google Drive]() | none |
 
 ## 🔗 Citation
