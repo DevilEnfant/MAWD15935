@@ -181,11 +181,11 @@ If you use **MAWD15935** in your research, please cite the following temporary r
 
 ```bibtex
 @misc{mawd15935,
-  title               = {MAWD15935: A Large-Scale Manchu Archives Word Dataset},
-  author           = {Jianjun He and Yucheng Wang and Fengzhi Bao and Yu Zhou and Zhengxu Jin and Ruirui Zheng},
-  year              = {2026},
-  note              = {Under review},
-  howpublished = {GitHub repository}
+  title={MAWD15935: A Large-Scale Manchu Archives Word Dataset},
+  author={Jianjun He and Yucheng Wang and Fengzhi Bao and Yu Zhou and Zhengxu Jin and Ruirui Zheng},
+  year={2026},
+  note={Under review},
+  howpublished={GitHub repository}
 }
 ```
 
